@@ -5,7 +5,7 @@
 <pre>
 git clone https://github.com/AKQJ1Oscar/Load-Balancer-scenario.git
 cd Load-Balancer-scenario
-Download QCOW2 image and put it in that directory - https://mega.nz/#!ohMlBLwJ!Grfl_kGl7QdE2ItoGlrAmPKe1Uj59dMVk3zn9mgXBw0
+Download compressed QCOW2 image and extract it in that directory - https://goo.gl/Me5HZz
 </pre>
 
 ### How to run
