@@ -11,5 +11,5 @@ Download compressed QCOW2 image and extract it in that directory - https://goo.g
 ### How to run
 
 <pre>
-python pfinalp1.py [options]
+python pfinalp1.py [command] [options]
 </pre>
